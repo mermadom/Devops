@@ -1,5 +1,5 @@
-Nome: Lucas Goulart Bunhak Santos
-RGM: 8829470757
+Nome:
+RGM:
 Curso: Sistemas de Informação (Bacharelado)
 Universidade: Universidade Positivo - Osório - Noite
 Matéria: Devops
