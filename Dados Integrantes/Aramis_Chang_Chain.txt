@@ -1,6 +1,7 @@
-Nome: 
-RGM: 
+Nome: Aramis Chang Chain
+RGM: 8813440250
 Curso: Sistemas de Informação (Bacharelado)
 Universidade: Universidade Positivo - Osório - Noite
 Matéria: Devops
 Professor: Leandro Fabian Almeida Escobar
+Período: 6° período/ 8° períodos
