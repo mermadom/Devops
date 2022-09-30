@@ -1,10 +1,15 @@
 # Devops
 Repositório Referente a Diciplina de DevOps
 Projeto de desenvolvimento ainda não defenido para a matéira
+
 Usuários do Git :
+
 Mermadom - Lucas Goulart Bunhak Santos
+
 Aramischangchain - Aramis Chang Chain
+
 Zionlks - Lucas Volkmann
+
 Felip-Oliv - Luiz Felipe A. Oliveira
 
 A responsabilidade Inicial de Cada Integrante é preencher seus dados cadastrais para futura definição de tarefas
