@@ -1,8 +1,8 @@
 # Devops
-Repositório Referente a Diciplina de DevOps
-Projeto de desenvolvimento ainda não defenido para a matéira
+***Repositório Referente a Diciplina de DevOps***
+***Projeto de desenvolvimento ainda não defenido para a matéira***
 
-Usuários do Git :
+***Usuários do Git :***
 
 ***Mermadom - Lucas Goulart Bunhak Santos***
 
