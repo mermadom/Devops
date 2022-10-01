@@ -12,7 +12,7 @@ Usuários do Git :
 
 ***Felip-Oliv - Luiz Felipe A. Oliveira***
 
-A responsabilidade Inicial de Cada Integrante é preencher seus dados cadastrais para futura definição de tarefas
+***A responsabilidade Inicial de Cada Integrante é preencher seus dados cadastrais para futura definição de tarefas***
 
-A estrutura do projeto se baseia em uma branch Develop a qual após corte de melhorias se tornará
-uma branch de release a qual será realizado o release, esta branch de release é protegida contra exclusões
+***A estrutura do projeto se baseia em uma branch Develop a qual após corte de melhorias se tornará***
+***uma branch de release a qual será realizado o release, esta branch de release é protegida contra exclusões***
